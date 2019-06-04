@@ -19,6 +19,7 @@ class Node {
 class Stack {
   /**
    * Stack constructor
+   * @return {Object}
    */
   constructor() {
     this.top = null;

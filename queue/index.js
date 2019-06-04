@@ -19,6 +19,7 @@ class Node {
 class Queue {
   /**
    * Queue constructor
+   * @return {Object}
    */
   constructor() {
     this.start = null;
